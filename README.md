@@ -4,4 +4,4 @@ Programación.
 
 Carpeta creada por JJEEVV.
 
-Están almacenados ejercicios de AceptaElReto.
+Están almacenados ejercicios de Programacion.
